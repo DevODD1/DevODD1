@@ -1,4 +1,4 @@
-<h4>👋 Merhabalar Ben Nihat KAYA</h4>
+<center><h4>👋 Merhabalar Ben Nihat KAYA</h4>
 <p>Ben SMTAL'de Bilişim Web tasarım okuyorum.<br>
 12.Sınıf öğrencisiyim ve 16 yaşındayım</p>
 <h4>Teknolojiler</h4>
@@ -14,4 +14,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevODD1&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97" style="float:left;"><br><br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevODD1&theme=github-dark&show_icons=true"/><br>
  </details>
-</div>
+</div></center>
